@@ -1,0 +1,26 @@
+section class="conteudo"
+
+
+PARA TITULOS USAR <H2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COLOCAR ISSO NO FINAL DE CADA PÁGINA (RODAPÉ)
+
+<?php
+	require_once 'rodape.php';
+?>
